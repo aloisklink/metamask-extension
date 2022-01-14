@@ -4858,7 +4858,7 @@
       "packages": {
         "@babel/runtime": true,
         "events": true,
-        "whatwg-fetch": true
+        "cross-fetch": true
       }
     },
     "truncate-utf8-bytes": {
